@@ -1,0 +1,16 @@
+# Ignore environment variables
+.env
+
+# Ignore node_modules
+node_modules/
+
+# Ignore package-lock.json if you don't want to include it
+package-lock.json
+
+# Ignore other files or directories you want to exclude
+# For example, to ignore log files
+*.log
+
+# Ignore dist or build directories
+dist/
+build/
